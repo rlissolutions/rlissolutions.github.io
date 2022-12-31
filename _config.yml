@@ -1,0 +1,21 @@
+# Site settings
+title: RLIS SOLUTIONS LTD.
+description: Consulting Company
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "localhost:3000" # the base hostname & protocol for your site e.g. 
+
+# User settings
+username: RLIS SOLUTIONS LTD.
+user_description: RLIS SOLUTIONS LTD. offers a range of services to its clients, including Cloud Architecture, Security, DevOps, DataOps, and MLOps. Our skilled and certified consultants work closely with our clients to understand their specific needs and challenges. We develop solutions to empower businesses.
+#user_title: IT Consulting Company
+email: info@rlis.ca
+#twitter_username: 
+#instagram_username: 
+#facebook_username: 
+linkedin_username: rlis-solutions-ltd
+github_username:  rlissolutions
+# medium_username: 
+# medium_url: 
+# gplus_username:
+
+exclude: ['package.json', 'src' , 'node_modules']
